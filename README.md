@@ -12,7 +12,7 @@
   Uma aplicação mobile moderna para comunicação comunitária, permitindo que moradores compartilhem informações importantes como alertas, eventos e notícias locais.
 </p>
 
-![Captura de tela do aplicativo](./assets/app-screenshot.png)
+
 
 ## ✨ Funcionalidades
 
